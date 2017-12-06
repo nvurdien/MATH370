@@ -21,10 +21,10 @@ table {float:left}
  m         | medication rate                      | 0.0            | 0.3            | 0.7
  t         | time                                 | 0 to 60        | 0 to 60        | 0 to 60
  y         | SIR rates in a y vector              | N/A            | N/A | N/A
- zeroloc   | checks when infection rate (I) is 0  | N/A            | N/A | N/A
+ zeroloc   | checks when infection rate (I) is 0.01%  | N/A            | N/A | N/A
  
 
-## General Ebola SIR Model Function
+# General Ebola SIR Model Function
 
 
 ```matlab
