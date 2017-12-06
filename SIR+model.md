@@ -10,8 +10,6 @@ table {float:left}
 
 # SIR Model Parameter list
 
-
-
  Parameter | What is it?                          | Baseline inputs| High V and Low M inputs | Low V and High M inputs
 :----------|:-------------------------------------|:--------------:|:--------------:|:-------------:
  S         | Susceptive Population                | 0.8           | 0.8           | 0.8
