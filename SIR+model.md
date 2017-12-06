@@ -12,10 +12,10 @@ table {float:left}
 
  Parameter | What is it?                          | Baseline inputs| High V and Low M inputs | Low V and High M inputs
 :----------|:-------------------------------------|:--------------:|:--------------:|:-------------:
- S         | Susceptive Population                | 1056           | 1056           | 1056
- I         | Infected Population                  | 322            | 322            | 322
+ S         | Susceptive Population                | 0.8           | 0.8           | 0.8
+ I         | Infected Population                  | 0.2            | 0.2            | 0.2
  R         | Recovered Population                 | 0              | 0              | 0
- beta      | β -  infection rate                  | 0.00058        | 0.00058        | 0.00058
+ beta      | β -  infection rate                  | 0.8        | 0.8        | 0.8
  gamma     | γ - recovery rate                    | 0.5            | 0.5            | 0.5
  v         | vaccination rate                     | 0.0            | 0.7            | 0.3
  m         | medication rate                      | 0.0            | 0.3            | 0.7
