@@ -1,11 +1,5 @@
 
 
-```matlab
-%%html
-<style>
-table {float:left}
-</style>
-```
 
 
 <style>
